@@ -1,12 +1,15 @@
-<h3>👋 Olá, me chamo Willian Nogueira </h3>
+# 👋 Olá, me chamo Willian Nogueira 
 
-<h4>Sou um entusiasta de tecnologia e estudante de Engenharia da Computação no terceiro período em Uberlândia.</h4>
+<h2>ℹ️ Sobre mim</h2>
 
-👀 Tenho uma paixão pela compreensão de como as coisas funcionam, especialmente no mundo da tecnologia.
+- 🎓 Estudante de Engenharia da Computação em Uberlândia.
+- 💡 Apaixonado por tecnologia e sempre buscando aprender mais.
+- 🌱 Em busca de oportunidades empolgantes para aplicar e expandir meus conhecimentos.
 
-🌱 Atualmente, estou em busca de oportunidades empolgantes na área para aplicar e expandir meus conhecimentos.
+<br>
+<br>
 
- ------
+
 
 ## 💻⚡ Ferramentas e Tecnologias
 
@@ -19,8 +22,11 @@
     <img loading="lazy" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 </div>
+<br>
+<br>
 
-----
+       
+## 📊 Estatísticas do GitHub
 
 <div>
 <a href="https://github.com/WillianNog">
@@ -28,9 +34,12 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianNog&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
   
----- 
-  
-<h2> 💼 📞 Entre em contato Comigo </h2>
+<br>
+<br>
+
+
+## 💼 📞 Entre em contato Comigo 
+
 <div>
     <a href="https://www.instagram.com/willian.nogueira0612/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="mailto:martinswillian0612@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -38,10 +47,9 @@
     <a href="https://wa.me/34999672686" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
 </div>
 
-----
 
+<br>
+<br>
+<br>
 
 ![Snake animation](https://github.com/WillianNog/WillianNog/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-
