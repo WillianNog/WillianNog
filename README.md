@@ -15,28 +15,16 @@
 
 Algumas tecnologias e ferramentas com as quais tenho mais contato no momento:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <!-- Git -->
-    <img loading="lazy" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<p>
+  <img loading="lazy" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img loading="lazy" title="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40"/>
+  <img loading="lazy" title="Jupyter Notebook" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40"/>
+  <img loading="lazy" title="VS Code" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40"/>
+  <img loading="lazy" title="Linux" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" height="40"/>
+  <img loading="lazy" title="SQL" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="40" height="40"/>
+  <img loading="lazy" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</p>
 
-    <!-- Python -->
-    <img loading="lazy" title="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40"/>
-
-    <!-- Jupyter -->
-    <img loading="lazy" title="Jupyter Notebook" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40"/>
-
-    <!-- VS Code / IDE -->
-    <img loading="lazy" title="VS Code" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40"/>
-
-    <!-- Linux -->
-    <img loading="lazy" title="Linux" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" height="40"/>
-
-    <!-- SQL genérico -->
-    <img loading="lazy" title="SQL" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="40" height="40"/>
-
-    <!-- Java (base da faculdade) -->
-    <img loading="lazy" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-</div>
 
 <br>
 
