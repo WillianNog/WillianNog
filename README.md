@@ -16,13 +16,35 @@
 Algumas tecnologias e ferramentas com as quais tenho mais contato no momento:
 
 <p>
+  <!-- Python -->
+  <img loading="lazy" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
+  <!-- Pandas -->
+  <img loading="lazy" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+
+  <!-- NumPy -->
+  <img loading="lazy" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+
+  <!-- Jupyter -->
+  <img loading="lazy" title="Jupyter Notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+
+  <!-- Power BI (repo oficial da Microsoft) -->
+  <img loading="lazy" title="Power BI" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="40" height="40"/>
+
+  <!-- MySQL -->
+  <img loading="lazy" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+  <!-- PostgreSQL -->
+  <img loading="lazy" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+
+  <!-- Git -->
   <img loading="lazy" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img loading="lazy" title="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40"/>
-  <img loading="lazy" title="Jupyter Notebook" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40"/>
-  <img loading="lazy" title="VS Code" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40"/>
-  <img loading="lazy" title="Linux" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="40" height="40"/>
-  <img loading="lazy" title="SQL" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="40" height="40"/>
-  <img loading="lazy" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+
+  <!-- VS Code -->
+  <img loading="lazy" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+
+  <!-- PyCharm -->
+  <img loading="lazy" title="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
 </p>
 
 
@@ -37,13 +59,27 @@ Algumas tecnologias e ferramentas com as quais tenho mais contato no momento:
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## 📊 Foco atual
 
-<div>
-<a href="https://github.com/WillianNog">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianNog&layout=compact&langs_count=7&theme=github_dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianNog&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
+Hoje estou concentrado em evoluir nas áreas abaixo:
+
+| Área                | Status atual                          | O que estou fazendo                           |
+|---------------------|---------------------------------------|-----------------------------------------------|
+| Python para Dados   | 🟡 Intermediário                      | Automação com arquivos, requests, Pandas      |
+| SQL                 | 🟡 Em desenvolvimento                 | Consultas, JOINs, filtros, agregações         |
+| Power BI            | 🟡 Em desenvolvimento                 | Dashboards simples e conexão com bases de dados |
+| Estatística básica  | 🔁 Sempre revisando                   | Média, mediana, desvio padrão, correlação     |
+| Machine Learning    | 🟢 Começando                          | Conceitos de modelos preditivos e classificação |
+| Boas práticas de Git| 🟡 Em desenvolvimento                 | Uso de branches, commits organizados          |
+
+### 🔎 O que estou buscando agora
+
+- 💼 Oportunidades como **Analista de Dados Jr / Python Jr / Data Science Jr**
+- 🤝 Projetos onde eu possa **aprender na prática** e ajudar o time com:
+  - limpeza e tratamento de dados;
+  - criação de relatórios e dashboards;
+  - automação de tarefas com Python.
+
   
 <br>
 <br>
@@ -64,4 +100,5 @@ Algumas tecnologias e ferramentas com as quais tenho mais contato no momento:
 <br>
 <br>
 
-![Snake animation](https://github.com/WillianNog/WillianNog/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- ![Snake animation](https://github.com/WillianNog/WillianNog/blob/output/github-contribution-grid-snake-dark.svg) -->
+
